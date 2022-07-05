@@ -1,4 +1,4 @@
-# Storefront Backend Project
+# Typescript, Node, postgreSql, db-migrate, Express API starter kit
 
 ## Getting Started
 
