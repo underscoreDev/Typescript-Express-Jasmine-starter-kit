@@ -1,4 +1,4 @@
-# Typescript, Node, postgreSql, db-migrate, Express API starter kit
+# Typescript, Node, Docker, postgreSql, db-migrate, Express API starter kit
 
 ## Getting Started
 
